@@ -42,6 +42,7 @@ server:
 #当前项目在本机的真实路径
 PATH: 'D:\\java\\DataSci\\lqf\\JudicatureAutoLabel\\'
 
+#爬虫文书下载地址
 DOWNLAODPATH: 'C:\\Users\\18933\\Desktop\\DataSciProject\\spyder\\'
 
 
